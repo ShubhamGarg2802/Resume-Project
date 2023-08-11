@@ -1,0 +1,27 @@
+body{
+    background-color: #1a1a1a;
+}
+p,h1,h2,h3,ul{
+    color: white;
+}
+a:link{
+    color: aqua;
+}
+a:visited{
+    color: aqua;
+}
+a:hover{
+    color: aquamarine;
+    text-decoration: underline;
+    font-size: 105%;
+}
+p,ul{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 11pt;
+}
+h2{
+    text-decoration: underline;
+}
+i{
+    font-size: 10pt;
+}
